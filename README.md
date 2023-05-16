@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,15&height=300&section=header&text=Welcome%20My%20GiuHub&fontSize=60)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **eodhlwjr97/eodhlwjr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
