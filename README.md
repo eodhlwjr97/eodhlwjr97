@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,15&height=300&section=header&text=Welcome%20My%20GiuHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,15&height=300&section=header&text=Welcome%20My%20GiuHub&fontSize=60)   
+      
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodhlwjr97)](https://solved.ac/eodhlwjr97)    
+
 
 <!-- ### Hi there 👋 -->
 
